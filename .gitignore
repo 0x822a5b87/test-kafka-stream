@@ -21,3 +21,14 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# vim ctags
+.tags
+filter-events/.gradle
+filter-events/gradle
+filter-events/gradlew
+filter-events/gradlew.bat
+filter-events/build
+
+# IDE
+.idea
